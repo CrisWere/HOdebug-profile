@@ -4,6 +4,7 @@
 #define DIM 1039596
 
 
+
 int main(int argc, char *argv[])
 {
   float *a;
